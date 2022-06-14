@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Stoyan (Tony) Haralampiev
+- 👀 Enjoy deep diving into complex problems and figuring out elegant solutions. I also love connecting with like-minded people and helping drive projects forward.
+- 🌱 Currently catching up with tech stacks, architecture styles and tooling evolution from recent years.
+- 💞️ Looking to collaborate on solving meaningful problems in the area of healthcare, education, electric vehicles and human consciousness.
+- 📫 Can be reached on [LinkedIn](https://www.linkedin.com/in/stoyan-haralampiev-95753020) or [FB](https://www.facebook.com/stoyan.haralampiev).
